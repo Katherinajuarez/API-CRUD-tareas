@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "67143d97372903ab74c4a701"
+  },
+  "titulo": "Finalizar proyecto",
+  "descripcion": "Completar las pruebas de la API CRUD",
+  "fechaLimite": {
+    "$date": "2024-10-30T00:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "alta",
+  "etiquetas": [
+    "proyecto",
+    "API"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671441eeb78c12d6845b5a0f"
+  },
+  "titulo": "Preparar el desayuno",
+  "descripcion": "Descripción actualizada",
+  "fechaLimite": {
+    "$date": "2024-10-20T07:30:00.000Z"
+  },
+  "completada": true,
+  "prioridad": "media",
+  "etiquetas": [
+    "comida",
+    "salud"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6714432cb78c12d6845b5a11"
+  },
+  "titulo": "Revisar correos electrónicos",
+  "descripcion": "Me mandaron un virus",
+  "fechaLimite": {
+    "$date": "2024-10-20T10:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "Alta",
+  "etiquetas": [
+    "trabajo",
+    "comunicaciones"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67144361b78c12d6845b5a13"
+  },
+  "titulo": "Leer un capítulo de un libro",
+  "descripcion": "Dedicar al menos 30 minutos a la lectura.",
+  "fechaLimite": {
+    "$date": "2024-10-20T20:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "baja",
+  "etiquetas": [
+    "lectura",
+    "desarrollo personal"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6714436db78c12d6845b5a15"
+  },
+  "titulo": "Lavar la ropa",
+  "descripcion": "Lavar y secar la ropa acumulada.",
+  "fechaLimite": {
+    "$date": "2024-10-21T15:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "media",
+  "etiquetas": [
+    "tareas del hogar",
+    "ropa"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6714437bb78c12d6845b5a17"
+  },
+  "titulo": "Ir al super",
+  "descripcion": "Hay picadillo y paté en oferta",
+  "fechaLimite": {
+    "$date": "2024-10-21T11:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "alta",
+  "etiquetas": [
+    "compras",
+    "alimentación"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67144389b78c12d6845b5a19"
+  },
+  "titulo": "Reunión de trabajo",
+  "descripcion": "Asistir a la reunión semanal con el equipo.",
+  "fechaLimite": {
+    "$date": "2024-10-20T14:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "alta",
+  "etiquetas": [
+    "trabajo",
+    "reuniones"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67144398b78c12d6845b5a1b"
+  },
+  "titulo": "Estudiar para el examen",
+  "descripcion": "Dedicar tiempo a repasar los temas del examen de la próxima semana.",
+  "fechaLimite": {
+    "$date": "2024-10-22T18:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "alta",
+  "etiquetas": [
+    "estudio",
+    "exámenes"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671443a7b78c12d6845b5a1d"
+  },
+  "titulo": "Organizar el espacio de trabajo",
+  "descripcion": "Limpiar y organizar el escritorio y el área de trabajo.",
+  "fechaLimite": {
+    "$date": "2024-10-21T17:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "baja",
+  "etiquetas": [
+    "organización",
+    "tareas del hogar"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671443b3b78c12d6845b5a1f"
+  },
+  "titulo": "Practicar un idioma",
+  "descripcion": "Dedicar al menos 20 minutos a practicar inglés con una aplicación.",
+  "fechaLimite": {
+    "$date": "2024-10-20T19:00:00.000Z"
+  },
+  "completada": false,
+  "prioridad": "media",
+  "etiquetas": [
+    "idiomas",
+    "aprendizaje"
+  ],
+  "__v": 0
+}]
