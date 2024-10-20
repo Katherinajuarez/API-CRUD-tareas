@@ -1,12 +1,12 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const tareaRoutes = require('./routes/tareaRoutes'); // Asegúrate de que la ruta sea correcta
+const tareaRoutes = require('./routes/tareaRoutes');
 
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.use(express.json()); // Para leer el cuerpo de las solicitudes JSON
-app.use('/tareas', tareaRoutes); // Usa las rutas de tarea
+app.use(express.json());
+app.use('/tareas', tareaRoutes);
 
 mongoose.connect('mongodb://localhost:27017/listaTareas', {
   useNewUrlParser: true,
